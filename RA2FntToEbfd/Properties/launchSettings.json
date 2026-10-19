@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RA2FntToEbfd": {
+      "commandName": "Project",
+      "commandLineArgs": "convert --template Files/CHINESE0.tga Files/TenThousandsCharsForEmperorBattleForDune.txt Files/game.fnt out"
+    }
+  }
+}
